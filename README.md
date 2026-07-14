@@ -74,4 +74,4 @@ Create a `.env.development.local` file and add:
 
 ## Author
 
-Divya
+Divya Srita
